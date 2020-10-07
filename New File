@@ -1,0 +1,4 @@
+git add File_name
+git status 
+git commit -m "Commit name" File_name 
+git push -u origin master 
